@@ -1,14 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Naoki Kano project page
+email: naokikano@dewildequinten.be
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Automation Collective is a project that explores the concept of digital identity through the use of but not only artificial intelligence. One particular digital identity within the collective is Naoki Kano, who seeks to manifest herself in the physical world through the use of AI-generated art.
+  
+  Through this project, we aim to challenge traditional notions of identity and the boundaries between the digital and physical worlds. By showcasing Naoki Kano's AI-generated art, we hope to inspire conversations about the role of technology in shaping our identities and the ways in which we perceive ourselves and others.
+  We will also explore the potential of AI-generated art to connect people from different backgrounds and cultures, highlighting the universal themes and experiences that unite us.
+  
+  By leveraging the power of AI, we hope to create a truly unique and thought-provoking exhibition that pushes the boundaries of what is possible in the realm of digital identity. Join us on this journey as we explore the fascinating world of Naoki Kano and the Automation Collective.
+
 baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "dewildequinten.be/works/auotmationcollective" # the base hostname & protocol for your site
+github_username:  naokikano
+instagram_username: _naokikano_
 
 # Build settings
 markdown: kramdown
