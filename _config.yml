@@ -2,7 +2,7 @@
 title: Naoki Kano project page
 email: naokikano@dewildequinten.be
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "dewildequinten.be/works/auotmationcollective" # the base hostname & protocol for your site
 #github_username:  naokikano
 #instagram_username: _naokikano_
