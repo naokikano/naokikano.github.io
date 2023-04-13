@@ -5,6 +5,6 @@ date:   2015-10-06 15:39:40
 preview: /js/holder.js/300x300?auto=yes
 ---
 
-![Picture 1](/assets/atthebeach.mp4)
+![Picture 1](/assets/ezgif.com-optimize (1).gif)
 
 Prompt about naoki going to the beach.
