@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Naoki Working"
+date:   2019-10-06 18:39:40
+preview: /assets/gif/working_one.gif
+---
+
+![Picture 1](/assets/gif/atthebeach_one.gif)
+![Picture 2](/assets/gif/atthebeach_two.gif)
+![Picture 3](/assets/gif/atthebeach_three.gif)
+![Picture 4](/assets/gif/atthebeach_four.gif)
+
+
+
