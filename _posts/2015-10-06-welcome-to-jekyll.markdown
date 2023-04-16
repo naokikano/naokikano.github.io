@@ -2,7 +2,7 @@
 layout: post
 title:  "Naoki going to the beach"
 date:   2015-10-06 15:39:40
-preview: /assets/Beeld-14-04-2023-18-21-55.tiff
+preview: /assets/ezgif.com-optimize (1).gif
 ---
 
 ![Picture 1](/assets/ezgif.com-optimize (1).gif)
